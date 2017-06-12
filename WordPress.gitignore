@@ -20,19 +20,19 @@
 
   <meta name="viewport" content="width=device-width">
   
-  <title>gitignore/WordPress.gitignore at master · github/gitignore</title>
+  <title>gitignore/WordPress.gitignore at master · champstudio/gitignore</title>
   <link rel="search" type="application/opensearchdescription+xml" href="/opensearch.xml" title="GitHub">
   <link rel="fluid-icon" href="https://github.com/fluidicon.png" title="GitHub">
   <meta property="fb:app_id" content="1401488693436528">
 
     
-    <meta content="https://avatars1.githubusercontent.com/u/9919?v=3&amp;s=400" property="og:image" /><meta content="GitHub" property="og:site_name" /><meta content="object" property="og:type" /><meta content="github/gitignore" property="og:title" /><meta content="https://github.com/github/gitignore" property="og:url" /><meta content="A collection of useful .gitignore templates" property="og:description" />
+    <meta content="https://avatars2.githubusercontent.com/u/18491445?v=3&amp;s=400" property="og:image" /><meta content="GitHub" property="og:site_name" /><meta content="object" property="og:type" /><meta content="champstudio/gitignore" property="og:title" /><meta content="https://github.com/champstudio/gitignore" property="og:url" /><meta content=".gitignore files for WordPress development stages" property="og:description" />
 
   <link rel="assets" href="https://assets-cdn.github.com/">
-  <link rel="web-socket" href="wss://live.github.com/_sockets/VjI6MTc5NTQyNjA2OmUyNzVmNTdiMGJlODAwNDk2OWIzNDY4YzcwZGU0M2IxNWJlYjQ2M2E4Mzc2NTU5NmNkZWE0NjVmYzRiN2I0MGE=--d6ed02d27d85f178d05da015a1ea903fbbad28ae">
+  <link rel="web-socket" href="wss://live.github.com/_sockets/VjI6MTc5NTQyNjA2Ojc1YTc2YzhkNTlhNzkxODBjZTlkYmI3NWU2MWQ0NzMxYWQ2NzMwOTQ0NjFiOWQ0NTdiY2IxNmEwNDFmYWRkMDk=--8d9b16028e1e0bffde6c9a3a719a46a83d80a399">
   <meta name="pjax-timeout" content="1000">
   <link rel="sudo-modal" href="/sessions/sudo_modal">
-  <meta name="request-id" content="F81C:0759:58DC124:8139816:593E9A18" data-pjax-transient>
+  <meta name="request-id" content="F8F9:0758:3C4F9D7:58006EC:593EA1BB" data-pjax-transient>
   
 
   <meta name="selected-link" value="repo_source" data-pjax-transient>
@@ -41,7 +41,7 @@
 <meta name="google-site-verification" content="ZzhVyEFwb7w3e0-uOTltm8Jsck2F5StVihD0exw2fsA">
     <meta name="google-analytics" content="UA-3769691-2">
 
-<meta content="collector.githubapp.com" name="octolytics-host" /><meta content="github" name="octolytics-app-id" /><meta content="https://collector.githubapp.com/github-external/browser_event" name="octolytics-event-url" /><meta content="F81C:0759:58DC124:8139816:593E9A18" name="octolytics-dimension-request_id" /><meta content="iad" name="octolytics-dimension-region_edge" /><meta content="iad" name="octolytics-dimension-region_render" /><meta content="26438975" name="octolytics-actor-id" /><meta content="DimitriDG" name="octolytics-actor-login" /><meta content="d98906e72faa24a8f6ca417a4a9994809d9f0e64caf17a0e9423e2946c4c4110" name="octolytics-actor-hash" />
+<meta content="collector.githubapp.com" name="octolytics-host" /><meta content="github" name="octolytics-app-id" /><meta content="https://collector.githubapp.com/github-external/browser_event" name="octolytics-event-url" /><meta content="F8F9:0758:3C4F9D7:58006EC:593EA1BB" name="octolytics-dimension-request_id" /><meta content="iad" name="octolytics-dimension-region_edge" /><meta content="iad" name="octolytics-dimension-region_render" /><meta content="26438975" name="octolytics-actor-id" /><meta content="DimitriDG" name="octolytics-actor-login" /><meta content="d98906e72faa24a8f6ca417a4a9994809d9f0e64caf17a0e9423e2946c4c4110" name="octolytics-actor-hash" />
 <meta content="/&lt;user-name&gt;/&lt;repo-name&gt;/blob/show" data-pjax-transient="true" name="analytics-location" />
 
 
@@ -56,7 +56,7 @@
   <meta name="user-login" content="DimitriDG">
 
       <meta name="expected-hostname" content="github.com">
-    <meta name="js-proxy-site-detection-payload" content="MWExZjM1YjM3MzRkNmZjNTQxY2Q5ZGVmMTkxMDczNjNkNGMzNzM2Nzc0NTA1MzM4ZGQzOTU4ZTk2MThmZGZjZnx7InJlbW90ZV9hZGRyZXNzIjoiMTMwLjE5MC4zOC4xNjgiLCJyZXF1ZXN0X2lkIjoiRjgxQzowNzU5OjU4REMxMjQ6ODEzOTgxNjo1OTNFOUExOCIsInRpbWVzdGFtcCI6MTQ5NzI3NDkwNSwiaG9zdCI6ImdpdGh1Yi5jb20ifQ==">
+    <meta name="js-proxy-site-detection-payload" content="ZTYxZmNkMDM0OTg1ODBmYTI4YTA1ZTdiMDAyMGVjNGU3NzQ0MzY3OTQ3MDQzZDVkMmNmY2EyYWVkMGE5MDhjY3x7InJlbW90ZV9hZGRyZXNzIjoiMTMwLjE5MC4zOC4xNjgiLCJyZXF1ZXN0X2lkIjoiRjhGOTowNzU4OjNDNEY5RDc6NTgwMDZFQzo1OTNFQTFCQiIsInRpbWVzdGFtcCI6MTQ5NzI3Njg2OCwiaG9zdCI6ImdpdGh1Yi5jb20ifQ==">
 
 
   <meta name="html-safe-nonce" content="9d2bd2bb84d61295696ffcf3f0d94708c4a71588">
@@ -65,14 +65,14 @@
   
 
     
-  <meta name="description" content="A collection of useful .gitignore templates">
-  <meta name="go-import" content="github.com/github/gitignore git https://github.com/github/gitignore.git">
+  <meta name="description" content=".gitignore files for WordPress development stages">
+  <meta name="go-import" content="github.com/champstudio/gitignore git https://github.com/champstudio/gitignore.git">
 
-  <meta content="9919" name="octolytics-dimension-user_id" /><meta content="github" name="octolytics-dimension-user_login" /><meta content="1062897" name="octolytics-dimension-repository_id" /><meta content="github/gitignore" name="octolytics-dimension-repository_nwo" /><meta content="true" name="octolytics-dimension-repository_public" /><meta content="false" name="octolytics-dimension-repository_is_fork" /><meta content="1062897" name="octolytics-dimension-repository_network_root_id" /><meta content="github/gitignore" name="octolytics-dimension-repository_network_root_nwo" /><meta content="false" name="octolytics-dimension-repository_explore_github_marketplace_ci_cta_shown" />
-  <link href="https://github.com/github/gitignore/commits/master.atom" rel="alternate" title="Recent Commits to gitignore:master" type="application/atom+xml">
+  <meta content="18491445" name="octolytics-dimension-user_id" /><meta content="champstudio" name="octolytics-dimension-user_login" /><meta content="56730051" name="octolytics-dimension-repository_id" /><meta content="champstudio/gitignore" name="octolytics-dimension-repository_nwo" /><meta content="true" name="octolytics-dimension-repository_public" /><meta content="false" name="octolytics-dimension-repository_is_fork" /><meta content="56730051" name="octolytics-dimension-repository_network_root_id" /><meta content="champstudio/gitignore" name="octolytics-dimension-repository_network_root_nwo" /><meta content="false" name="octolytics-dimension-repository_explore_github_marketplace_ci_cta_shown" />
+  <link href="https://github.com/champstudio/gitignore/commits/master.atom" rel="alternate" title="Recent Commits to gitignore:master" type="application/atom+xml">
 
 
-    <link rel="canonical" href="https://github.com/github/gitignore/blob/master/WordPress.gitignore" data-pjax-transient>
+    <link rel="canonical" href="https://github.com/champstudio/gitignore/blob/master/development/WordPress.gitignore" data-pjax-transient>
 
 
   <meta name="browser-stats-url" content="https://api.github.com/_private/browser/stats">
@@ -112,9 +112,9 @@
 
 
         <div class="header-search scoped-search site-scoped-search js-site-search" role="search">
-  <!-- '"` --><!-- </textarea></xmp> --></option></form><form accept-charset="UTF-8" action="/github/gitignore/search" class="js-site-search-form" data-scoped-search-url="/github/gitignore/search" data-unscoped-search-url="/search" method="get"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="&#x2713;" /></div>
+  <!-- '"` --><!-- </textarea></xmp> --></option></form><form accept-charset="UTF-8" action="/champstudio/gitignore/search" class="js-site-search-form" data-scoped-search-url="/champstudio/gitignore/search" data-unscoped-search-url="/search" method="get"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="&#x2713;" /></div>
     <label class="form-control header-search-wrapper js-chromeless-input-container">
-        <a href="/github/gitignore/blob/master/WordPress.gitignore" class="header-search-scope no-underline">This repository</a>
+        <a href="/champstudio/gitignore/blob/master/development/WordPress.gitignore" class="header-search-scope no-underline">This repository</a>
       <input type="text"
         class="form-control header-search-input js-site-search-focus js-site-search-field is-clearable"
         data-hotkey="s"
@@ -184,6 +184,13 @@
 
 
 
+  <div class="dropdown-divider"></div>
+  <div class="dropdown-header">
+    <span title="champstudio/gitignore">This repository</span>
+  </div>
+    <a class="dropdown-item" href="/champstudio/gitignore/issues/new" data-ga-click="Header, create new issue">
+      New issue
+    </a>
 
       </ul>
     </div>
@@ -224,7 +231,7 @@
           Settings
         </a>
 
-        <!-- '"` --><!-- </textarea></xmp> --></option></form><form accept-charset="UTF-8" action="/logout" class="logout-form" method="post"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="&#x2713;" /><input name="authenticity_token" type="hidden" value="WTw5WFIdP4zIbo0shIPn+QtYpJluUxeB+OvI3C3a7W0oRmGIE+wq6MWFAN7MVeCqGzZBrmB3HSgfp/NOXc6aBw==" /></div>
+        <!-- '"` --><!-- </textarea></xmp> --></option></form><form accept-charset="UTF-8" action="/logout" class="logout-form" method="post"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="&#x2713;" /><input name="authenticity_token" type="hidden" value="tggiRt8BX42076yNO3mYp02ulodRAeJ4h9HRYW0cWHjHcnqWnvBK6bkEIX9zr5/0XcBzsF8l6NFgnerzHQgvEg==" /></div>
           <button type="submit" class="dropdown-item dropdown-signout" data-ga-click="Header, sign out, icon:logout">
             Sign out
           </button>
@@ -234,7 +241,7 @@
 </ul>
 
 
-    <!-- '"` --><!-- </textarea></xmp> --></option></form><form accept-charset="UTF-8" action="/logout" class="sr-only right-0" method="post"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="&#x2713;" /><input name="authenticity_token" type="hidden" value="6S/O+w6ZEMifAaQdYHvj2FdVk3dAsGjCaWMsLsEfZt2YVZYrT2gFrJLqKe8oreSLRzt2QE6UYmuOLxe8sQsRtw==" /></div>
+    <!-- '"` --><!-- </textarea></xmp> --></option></form><form accept-charset="UTF-8" action="/logout" class="sr-only right-0" method="post"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="&#x2713;" /><input name="authenticity_token" type="hidden" value="sXYl1M1WlVcsvVs+7GBG3gmj72xmMeBdRdJVeJGxCbHADH0EjKeAMyFW1syktkGNGc0KW2gV6vSinm7q4aV+2w==" /></div>
       <button type="submit" class="dropdown-item dropdown-signout" data-ga-click="Header, sign out, icon:logout">
         Sign out
       </button>
@@ -262,16 +269,15 @@
 
 
 
-
     <div class="pagehead repohead instapaper_ignore readability-menu experiment-repo-nav">
       <div class="container repohead-details-container">
 
         <ul class="pagehead-actions">
   <li>
-        <!-- '"` --><!-- </textarea></xmp> --></option></form><form accept-charset="UTF-8" action="/notifications/subscribe" class="js-social-container" data-autosubmit="true" data-remote="true" method="post"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="&#x2713;" /><input name="authenticity_token" type="hidden" value="R2DbUqGtK+swkx/ej7xudLONnFlv4glOAjCGCT4+4mhrLaSM5Kovx2y6lZgQ7n/c/uViRM2v2MgeB+CmVA/Sog==" /></div>      <input class="form-control" id="repository_id" name="repository_id" type="hidden" value="1062897" />
+        <!-- '"` --><!-- </textarea></xmp> --></option></form><form accept-charset="UTF-8" action="/notifications/subscribe" class="js-social-container" data-autosubmit="true" data-remote="true" method="post"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="&#x2713;" /><input name="authenticity_token" type="hidden" value="1wy7x/ldO+kFhSGaBu3oygK/EUFD3c1J5qNbyosLLZr7QcQZvFo/xVmsq9yZv/liT9fvXOGQHM/6lD1l4TodUA==" /></div>      <input class="form-control" id="repository_id" name="repository_id" type="hidden" value="56730051" />
 
         <div class="select-menu js-menu-container js-select-menu">
-          <a href="/github/gitignore/subscription"
+          <a href="/champstudio/gitignore/subscription"
             class="btn btn-sm btn-with-count select-menu-button js-menu-target" role="button" tabindex="0" aria-haspopup="true"
             data-ga-click="Repository, click Watch settings, action:blob#show">
             <span class="js-select-button">
@@ -280,9 +286,9 @@
             </span>
           </a>
             <a class="social-count js-social-count"
-              href="/github/gitignore/watchers"
-              aria-label="2044 users are watching this repository">
-              2,044
+              href="/champstudio/gitignore/watchers"
+              aria-label="1 user is watching this repository">
+              1
             </a>
 
         <div class="select-menu-modal-holder">
@@ -343,61 +349,61 @@
 
   <li>
       <div class="js-toggler-container js-social-container starring-container ">
-    <!-- '"` --><!-- </textarea></xmp> --></option></form><form accept-charset="UTF-8" action="/github/gitignore/unstar" class="starred" data-remote="true" method="post"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="&#x2713;" /><input name="authenticity_token" type="hidden" value="WbRFFIPm7uPbthuQigVVWTGpDl9Juzr0jZEVK5XmQeWYWXaZ6B3JFPIQnW7NMPSU3ihLtM1lMgw+/kqzHrYkXw==" /></div>
+    <!-- '"` --><!-- </textarea></xmp> --></option></form><form accept-charset="UTF-8" action="/champstudio/gitignore/unstar" class="starred" data-remote="true" method="post"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="&#x2713;" /><input name="authenticity_token" type="hidden" value="TlnS4To2TjQ26ALNpp1V1BjfnxJ2n0Qw2aPpG/s3hxWfew0ldcS611g9MYqVO4nRJniLQpVOBRTV1p4uiNdJ5A==" /></div>
       <button
         type="submit"
         class="btn btn-sm btn-with-count js-toggler-target"
-        aria-label="Unstar this repository" title="Unstar github/gitignore"
+        aria-label="Unstar this repository" title="Unstar champstudio/gitignore"
         data-ga-click="Repository, click unstar button, action:blob#show; text:Unstar">
         <svg aria-hidden="true" class="octicon octicon-star" height="16" version="1.1" viewBox="0 0 14 16" width="14"><path fill-rule="evenodd" d="M14 6l-4.9-.64L7 1 4.9 5.36 0 6l3.6 3.26L2.67 14 7 11.67 11.33 14l-.93-4.74z"/></svg>
         Unstar
       </button>
-        <a class="social-count js-social-count" href="/github/gitignore/stargazers"
-           aria-label="51144 users starred this repository">
-          51,144
+        <a class="social-count js-social-count" href="/champstudio/gitignore/stargazers"
+           aria-label="1 user starred this repository">
+          1
         </a>
 </form>
-    <!-- '"` --><!-- </textarea></xmp> --></option></form><form accept-charset="UTF-8" action="/github/gitignore/star" class="unstarred" data-remote="true" method="post"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="&#x2713;" /><input name="authenticity_token" type="hidden" value="pCEH5DGaoE8ows8XfRGnxXGzIY1VKGVCLuSoa6F5iSOILsvvdOWJeqS1JQq2qcHPdyzYUHxBlr5wuDHzBqH2NA==" /></div>
+    <!-- '"` --><!-- </textarea></xmp> --></option></form><form accept-charset="UTF-8" action="/champstudio/gitignore/star" class="unstarred" data-remote="true" method="post"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="&#x2713;" /><input name="authenticity_token" type="hidden" value="j59vwUVMPp9con3cI2Pch87MSakkJxlD0VOfIinRHrLDVpvAPcoWCgM5aB+BY6tPr2M43G/cU0Mh9M15lv0ALw==" /></div>
       <button
         type="submit"
         class="btn btn-sm btn-with-count js-toggler-target"
-        aria-label="Star this repository" title="Star github/gitignore"
+        aria-label="Star this repository" title="Star champstudio/gitignore"
         data-ga-click="Repository, click star button, action:blob#show; text:Star">
         <svg aria-hidden="true" class="octicon octicon-star" height="16" version="1.1" viewBox="0 0 14 16" width="14"><path fill-rule="evenodd" d="M14 6l-4.9-.64L7 1 4.9 5.36 0 6l3.6 3.26L2.67 14 7 11.67 11.33 14l-.93-4.74z"/></svg>
         Star
       </button>
-        <a class="social-count js-social-count" href="/github/gitignore/stargazers"
-           aria-label="51144 users starred this repository">
-          51,144
+        <a class="social-count js-social-count" href="/champstudio/gitignore/stargazers"
+           aria-label="1 user starred this repository">
+          1
         </a>
 </form>  </div>
 
   </li>
 
   <li>
-          <!-- '"` --><!-- </textarea></xmp> --></option></form><form accept-charset="UTF-8" action="/github/gitignore/fork" class="btn-with-count" method="post"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="&#x2713;" /><input name="authenticity_token" type="hidden" value="QSY+Gnn61eu9TeSs0ofkz8/a94q6HYYSIKurvBD4z5XdRu83dW5j3eF7VwNhYU7BKxsc44Q4eOTv6LDOucZLDQ==" /></div>
+          <!-- '"` --><!-- </textarea></xmp> --></option></form><form accept-charset="UTF-8" action="/champstudio/gitignore/fork" class="btn-with-count" method="post"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="&#x2713;" /><input name="authenticity_token" type="hidden" value="HzdBuRWTXNifKWkNh6TXDDa2IXfhrzeSq7DMH7hXXG/L+naU7MLM9hgBdc7IonDloPa0pB7WdTdnrklkslBcBg==" /></div>
             <button
                 type="submit"
                 class="btn btn-sm btn-with-count"
                 data-ga-click="Repository, show fork modal, action:blob#show; text:Fork"
-                title="Fork your own copy of github/gitignore to your account"
-                aria-label="Fork your own copy of github/gitignore to your account">
+                title="Fork your own copy of champstudio/gitignore to your account"
+                aria-label="Fork your own copy of champstudio/gitignore to your account">
               <svg aria-hidden="true" class="octicon octicon-repo-forked" height="16" version="1.1" viewBox="0 0 10 16" width="10"><path fill-rule="evenodd" d="M8 1a1.993 1.993 0 0 0-1 3.72V6L5 8 3 6V4.72A1.993 1.993 0 0 0 2 1a1.993 1.993 0 0 0-1 3.72V6.5l3 3v1.78A1.993 1.993 0 0 0 5 15a1.993 1.993 0 0 0 1-3.72V9.5l3-3V4.72A1.993 1.993 0 0 0 8 1zM2 4.2C1.34 4.2.8 3.65.8 3c0-.65.55-1.2 1.2-1.2.65 0 1.2.55 1.2 1.2 0 .65-.55 1.2-1.2 1.2zm3 10c-.66 0-1.2-.55-1.2-1.2 0-.65.55-1.2 1.2-1.2.65 0 1.2.55 1.2 1.2 0 .65-.55 1.2-1.2 1.2zm3-10c-.66 0-1.2-.55-1.2-1.2 0-.65.55-1.2 1.2-1.2.65 0 1.2.55 1.2 1.2 0 .65-.55 1.2-1.2 1.2z"/></svg>
               Fork
             </button>
 </form>
-    <a href="/github/gitignore/network" class="social-count"
-       aria-label="21875 users forked this repository">
-      21,875
+    <a href="/champstudio/gitignore/network" class="social-count"
+       aria-label="1 user forked this repository">
+      1
     </a>
   </li>
 </ul>
 
         <h1 class="public ">
   <svg aria-hidden="true" class="octicon octicon-repo" height="16" version="1.1" viewBox="0 0 12 16" width="12"><path fill-rule="evenodd" d="M4 9H3V8h1v1zm0-3H3v1h1V6zm0-2H3v1h1V4zm0-2H3v1h1V2zm8-1v12c0 .55-.45 1-1 1H6v2l-1.5-1.5L3 16v-2H1c-.55 0-1-.45-1-1V1c0-.55.45-1 1-1h10c.55 0 1 .45 1 1zm-1 10H1v2h2v-1h3v1h5v-2zm0-10H2v9h9V1z"/></svg>
-  <span class="author" itemprop="author"><a href="/github" class="url fn" rel="author">github</a></span><!--
+  <span class="author" itemprop="author"><a href="/champstudio" class="url fn" rel="author">champstudio</a></span><!--
 --><span class="path-divider">/</span><!--
---><strong itemprop="name"><a href="/github/gitignore" data-pjax="#js-repo-pjax-container">gitignore</a></strong>
+--><strong itemprop="name"><a href="/champstudio/gitignore" data-pjax="#js-repo-pjax-container">gitignore</a></strong>
 
 </h1>
 
@@ -411,27 +417,37 @@
      data-pjax="#js-repo-pjax-container">
 
   <span itemscope itemtype="http://schema.org/ListItem" itemprop="itemListElement">
-    <a href="/github/gitignore" class="js-selected-navigation-item selected reponav-item" data-hotkey="g c" data-selected-links="repo_source repo_downloads repo_commits repo_releases repo_tags repo_branches /github/gitignore" itemprop="url">
+    <a href="/champstudio/gitignore" class="js-selected-navigation-item selected reponav-item" data-hotkey="g c" data-selected-links="repo_source repo_downloads repo_commits repo_releases repo_tags repo_branches /champstudio/gitignore" itemprop="url">
       <svg aria-hidden="true" class="octicon octicon-code" height="16" version="1.1" viewBox="0 0 14 16" width="14"><path fill-rule="evenodd" d="M9.5 3L8 4.5 11.5 8 8 11.5 9.5 13 14 8 9.5 3zm-5 0L0 8l4.5 5L6 11.5 2.5 8 6 4.5 4.5 3z"/></svg>
       <span itemprop="name">Code</span>
       <meta itemprop="position" content="1">
 </a>  </span>
 
+    <span itemscope itemtype="http://schema.org/ListItem" itemprop="itemListElement">
+      <a href="/champstudio/gitignore/issues" class="js-selected-navigation-item reponav-item" data-hotkey="g i" data-selected-links="repo_issues repo_labels repo_milestones /champstudio/gitignore/issues" itemprop="url">
+        <svg aria-hidden="true" class="octicon octicon-issue-opened" height="16" version="1.1" viewBox="0 0 14 16" width="14"><path fill-rule="evenodd" d="M7 2.3c3.14 0 5.7 2.56 5.7 5.7s-2.56 5.7-5.7 5.7A5.71 5.71 0 0 1 1.3 8c0-3.14 2.56-5.7 5.7-5.7zM7 1C3.14 1 0 4.14 0 8s3.14 7 7 7 7-3.14 7-7-3.14-7-7-7zm1 3H6v5h2V4zm0 6H6v2h2v-2z"/></svg>
+        <span itemprop="name">Issues</span>
+        <span class="Counter">0</span>
+        <meta itemprop="position" content="2">
+</a>    </span>
 
   <span itemscope itemtype="http://schema.org/ListItem" itemprop="itemListElement">
-    <a href="/github/gitignore/pulls" class="js-selected-navigation-item reponav-item" data-hotkey="g p" data-selected-links="repo_pulls /github/gitignore/pulls" itemprop="url">
+    <a href="/champstudio/gitignore/pulls" class="js-selected-navigation-item reponav-item" data-hotkey="g p" data-selected-links="repo_pulls /champstudio/gitignore/pulls" itemprop="url">
       <svg aria-hidden="true" class="octicon octicon-git-pull-request" height="16" version="1.1" viewBox="0 0 12 16" width="12"><path fill-rule="evenodd" d="M11 11.28V5c-.03-.78-.34-1.47-.94-2.06C9.46 2.35 8.78 2.03 8 2H7V0L4 3l3 3V4h1c.27.02.48.11.69.31.21.2.3.42.31.69v6.28A1.993 1.993 0 0 0 10 15a1.993 1.993 0 0 0 1-3.72zm-1 2.92c-.66 0-1.2-.55-1.2-1.2 0-.65.55-1.2 1.2-1.2.65 0 1.2.55 1.2 1.2 0 .65-.55 1.2-1.2 1.2zM4 3c0-1.11-.89-2-2-2a1.993 1.993 0 0 0-1 3.72v6.56A1.993 1.993 0 0 0 2 15a1.993 1.993 0 0 0 1-3.72V4.72c.59-.34 1-.98 1-1.72zm-.8 10c0 .66-.55 1.2-1.2 1.2-.65 0-1.2-.55-1.2-1.2 0-.65.55-1.2 1.2-1.2.65 0 1.2.55 1.2 1.2zM2 4.2C1.34 4.2.8 3.65.8 3c0-.65.55-1.2 1.2-1.2.65 0 1.2.55 1.2 1.2 0 .65-.55 1.2-1.2 1.2z"/></svg>
       <span itemprop="name">Pull requests</span>
-      <span class="Counter">145</span>
+      <span class="Counter">0</span>
       <meta itemprop="position" content="3">
 </a>  </span>
 
-    <a href="/github/gitignore/projects" class="js-selected-navigation-item reponav-item" data-selected-links="repo_projects new_repo_project repo_project /github/gitignore/projects">
+    <a href="/champstudio/gitignore/projects" class="js-selected-navigation-item reponav-item" data-selected-links="repo_projects new_repo_project repo_project /champstudio/gitignore/projects">
       <svg aria-hidden="true" class="octicon octicon-project" height="16" version="1.1" viewBox="0 0 15 16" width="15"><path fill-rule="evenodd" d="M10 12h3V2h-3v10zm-4-2h3V2H6v8zm-4 4h3V2H2v12zm-1 1h13V1H1v14zM14 0H1a1 1 0 0 0-1 1v14a1 1 0 0 0 1 1h13a1 1 0 0 0 1-1V1a1 1 0 0 0-1-1z"/></svg>
       Projects
       <span class="Counter" >0</span>
 </a>
-
+    <a href="/champstudio/gitignore/wiki" class="js-selected-navigation-item reponav-item" data-hotkey="g w" data-selected-links="repo_wiki /champstudio/gitignore/wiki">
+      <svg aria-hidden="true" class="octicon octicon-book" height="16" version="1.1" viewBox="0 0 16 16" width="16"><path fill-rule="evenodd" d="M3 5h4v1H3V5zm0 3h4V7H3v1zm0 2h4V9H3v1zm11-5h-4v1h4V5zm0 2h-4v1h4V7zm0 2h-4v1h4V9zm2-6v9c0 .55-.45 1-1 1H9.5l-1 1-1-1H2c-.55 0-1-.45-1-1V3c0-.55.45-1 1-1h5.5l1 1 1-1H15c.55 0 1 .45 1 1zm-8 .5L7.5 3H2v9h6V3.5zm7-.5H9.5l-.5.5V12h6V3z"/></svg>
+      Wiki
+</a>
 
     <div class="reponav-dropdown js-menu-container">
       <button type="button" class="btn-link reponav-item reponav-dropdown js-menu-target " data-no-toggle aria-expanded="false" aria-haspopup="true">
@@ -440,11 +456,11 @@
       </button>
       <div class="dropdown-menu-content js-menu-content">
         <div class="dropdown-menu dropdown-menu-sw">
-          <a class="dropdown-item" href="/github/gitignore/pulse" data-skip-pjax>
+          <a class="dropdown-item" href="/champstudio/gitignore/pulse" data-skip-pjax>
             <svg aria-hidden="true" class="octicon octicon-pulse" height="16" version="1.1" viewBox="0 0 14 16" width="14"><path fill-rule="evenodd" d="M11.5 8L8.8 5.4 6.6 8.5 5.5 1.6 2.38 8H0v2h3.6l.9-1.8.9 5.4L9 8.5l1.6 1.5H14V8z"/></svg>
             Pulse
           </a>
-          <a class="dropdown-item" href="/github/gitignore/graphs" data-skip-pjax>
+          <a class="dropdown-item" href="/champstudio/gitignore/graphs" data-skip-pjax>
             <svg aria-hidden="true" class="octicon octicon-graph" height="16" version="1.1" viewBox="0 0 16 16" width="16"><path fill-rule="evenodd" d="M16 14v1H0V0h1v14h15zM5 13H3V8h2v5zm4 0H7V3h2v10zm4 0h-2V6h2v7z"/></svg>
             Graphs
           </a>
@@ -466,9 +482,9 @@
 
 
     
-  <a href="/github/gitignore/blob/8edb8a95c4c4b3dce71a378aaaf89275510b9cef/WordPress.gitignore" class="d-none js-permalink-shortcut" data-hotkey="y">Permalink</a>
+  <a href="/champstudio/gitignore/blob/727ca1fe4112ebbe16221ee5a93184e2f4750151/development/WordPress.gitignore" class="d-none js-permalink-shortcut" data-hotkey="y">Permalink</a>
 
-  <!-- blob contrib key: blob_contributors:v21:b6771eca944aa36eef86498b0d4577ef -->
+  <!-- blob contrib key: blob_contributors:v21:441ae988676fd823d8c031cb352a4f33 -->
 
   <div class="file-navigation js-zeroclipboard-container">
     
@@ -509,54 +525,14 @@
         <div data-filterable-for="context-commitish-filter-field" data-filterable-type="substring">
 
 
-            <a class="select-menu-item js-navigation-item js-navigation-open "
-               href="/github/gitignore/blob/annotating-visualstudio/WordPress.gitignore"
-               data-name="annotating-visualstudio"
-               data-skip-pjax="true"
-               rel="nofollow">
-              <svg aria-hidden="true" class="octicon octicon-check select-menu-item-icon" height="16" version="1.1" viewBox="0 0 12 16" width="12"><path fill-rule="evenodd" d="M12 5l-8 8-4-4 1.5-1.5L4 10l6.5-6.5z"/></svg>
-              <span class="select-menu-item-text css-truncate-target js-select-menu-filter-text">
-                annotating-visualstudio
-              </span>
-            </a>
-            <a class="select-menu-item js-navigation-item js-navigation-open "
-               href="/github/gitignore/blob/ghfw/WordPress.gitignore"
-               data-name="ghfw"
-               data-skip-pjax="true"
-               rel="nofollow">
-              <svg aria-hidden="true" class="octicon octicon-check select-menu-item-icon" height="16" version="1.1" viewBox="0 0 12 16" width="12"><path fill-rule="evenodd" d="M12 5l-8 8-4-4 1.5-1.5L4 10l6.5-6.5z"/></svg>
-              <span class="select-menu-item-text css-truncate-target js-select-menu-filter-text">
-                ghfw
-              </span>
-            </a>
             <a class="select-menu-item js-navigation-item js-navigation-open selected"
-               href="/github/gitignore/blob/master/WordPress.gitignore"
+               href="/champstudio/gitignore/blob/master/development/WordPress.gitignore"
                data-name="master"
                data-skip-pjax="true"
                rel="nofollow">
               <svg aria-hidden="true" class="octicon octicon-check select-menu-item-icon" height="16" version="1.1" viewBox="0 0 12 16" width="12"><path fill-rule="evenodd" d="M12 5l-8 8-4-4 1.5-1.5L4 10l6.5-6.5z"/></svg>
               <span class="select-menu-item-text css-truncate-target js-select-menu-filter-text">
                 master
-              </span>
-            </a>
-            <a class="select-menu-item js-navigation-item js-navigation-open "
-               href="/github/gitignore/blob/old-ghfw/WordPress.gitignore"
-               data-name="old-ghfw"
-               data-skip-pjax="true"
-               rel="nofollow">
-              <svg aria-hidden="true" class="octicon octicon-check select-menu-item-icon" height="16" version="1.1" viewBox="0 0 12 16" width="12"><path fill-rule="evenodd" d="M12 5l-8 8-4-4 1.5-1.5L4 10l6.5-6.5z"/></svg>
-              <span class="select-menu-item-text css-truncate-target js-select-menu-filter-text">
-                old-ghfw
-              </span>
-            </a>
-            <a class="select-menu-item js-navigation-item js-navigation-open "
-               href="/github/gitignore/blob/reduce-noise/WordPress.gitignore"
-               data-name="reduce-noise"
-               data-skip-pjax="true"
-               rel="nofollow">
-              <svg aria-hidden="true" class="octicon octicon-check select-menu-item-icon" height="16" version="1.1" viewBox="0 0 12 16" width="12"><path fill-rule="evenodd" d="M12 5l-8 8-4-4 1.5-1.5L4 10l6.5-6.5z"/></svg>
-              <span class="select-menu-item-text css-truncate-target js-select-menu-filter-text">
-                reduce-noise
               </span>
             </a>
         </div>
@@ -578,7 +554,7 @@
 </div>
 
     <div class="BtnGroup float-right">
-      <a href="/github/gitignore/find/master"
+      <a href="/champstudio/gitignore/find/master"
             class="js-pjax-capture-input btn btn-sm BtnGroup-item"
             data-pjax
             data-hotkey="t">
@@ -587,90 +563,29 @@
       <button aria-label="Copy file path to clipboard" class="js-zeroclipboard btn btn-sm BtnGroup-item tooltipped tooltipped-s" data-copied-hint="Copied!" type="button">Copy path</button>
     </div>
     <div class="breadcrumb js-zeroclipboard-target">
-      <span class="repo-root js-repo-root"><span class="js-path-segment"><a href="/github/gitignore"><span>gitignore</span></a></span></span><span class="separator">/</span><strong class="final-path">WordPress.gitignore</strong>
+      <span class="repo-root js-repo-root"><span class="js-path-segment"><a href="/champstudio/gitignore"><span>gitignore</span></a></span></span><span class="separator">/</span><span class="js-path-segment"><a href="/champstudio/gitignore/tree/master/development"><span>development</span></a></span><span class="separator">/</span><strong class="final-path">WordPress.gitignore</strong>
     </div>
   </div>
 
 
-  
-  <div class="commit-tease">
-      <span class="float-right">
-        <a class="commit-tease-sha" href="/github/gitignore/commit/fb86177e9a2e770ad41e7d95d799807337de6c3b" data-pjax>
-          fb86177
-        </a>
-        <relative-time datetime="2015-09-11T04:54:59Z">Sep 11, 2015</relative-time>
-      </span>
-      <div>
-        <img alt="@sourcerer-mike" class="avatar" height="20" src="https://avatars3.githubusercontent.com/u/2559177?v=3&amp;s=40" width="20" />
-        <a href="/sourcerer-mike" class="user-mention" rel="contributor">sourcerer-mike</a>
-          <a href="/github/gitignore/commit/fb86177e9a2e770ad41e7d95d799807337de6c3b" class="message" data-pjax="true" title="WordPress: Only ignore files in root to support other plugins
-
-Most files are ignores without defining the directory.
-This caused trouble with several plugins.
-To fix that some files should only be ignored in the root directory.
-
-- .htaccess is only ignored in the root directory
-  due to some plugins or devs that need and create the htaccess
-  for security issues in subfolders
-- sitemap.xml and sitemap.xml.gz is only ignored in the root directory
-  due to plugins that have an equal name and are therefor ignored
-- Those files are ordered alphabetically">WordPress: Only ignore files in root to support other plugins</a>
-      </div>
+  <include-fragment class="commit-tease" src="/champstudio/gitignore/contributors/master/development/WordPress.gitignore">
+    <div>
+      Fetching contributors&hellip;
+    </div>
 
     <div class="commit-tease-contributors">
-      <button type="button" class="btn-link muted-link contributors-toggle" data-facebox="#blob_contributors_box">
-        <strong>6</strong>
-         contributors
-      </button>
-          <a class="avatar-link tooltipped tooltipped-s" aria-label="Decadence" href="/github/gitignore/commits/master/WordPress.gitignore?author=Decadence"><img alt="@Decadence" class="avatar" height="20" src="https://avatars3.githubusercontent.com/u/1434668?v=3&amp;s=40" width="20" /> </a>
-    <a class="avatar-link tooltipped tooltipped-s" aria-label="hulet" href="/github/gitignore/commits/master/WordPress.gitignore?author=hulet"><img alt="@hulet" class="avatar" height="20" src="https://avatars2.githubusercontent.com/u/18347?v=3&amp;s=40" width="20" /> </a>
-    <a class="avatar-link tooltipped tooltipped-s" aria-label="sourcerer-mike" href="/github/gitignore/commits/master/WordPress.gitignore?author=sourcerer-mike"><img alt="@sourcerer-mike" class="avatar" height="20" src="https://avatars3.githubusercontent.com/u/2559177?v=3&amp;s=40" width="20" /> </a>
-    <a class="avatar-link tooltipped tooltipped-s" aria-label="izuzak" href="/github/gitignore/commits/master/WordPress.gitignore?author=izuzak"><img alt="@izuzak" class="avatar" height="20" src="https://avatars2.githubusercontent.com/u/38924?v=3&amp;s=40" width="20" /> </a>
-    <a class="avatar-link tooltipped tooltipped-s" aria-label="sheabunge" href="/github/gitignore/commits/master/WordPress.gitignore?author=sheabunge"><img alt="@sheabunge" class="avatar" height="20" src="https://avatars3.githubusercontent.com/u/1170783?v=3&amp;s=40" width="20" /> </a>
-    <a class="avatar-link tooltipped tooltipped-s" aria-label="BFTrick" href="/github/gitignore/commits/master/WordPress.gitignore?author=BFTrick"><img alt="@BFTrick" class="avatar" height="20" src="https://avatars1.githubusercontent.com/u/1065372?v=3&amp;s=40" width="20" /> </a>
-
-
+      <img alt="" class="loader-loading float-left" height="16" src="https://assets-cdn.github.com/images/spinners/octocat-spinner-32-EAF2F5.gif" width="16" />
+      <span class="loader-error">Cannot retrieve contributors at this time</span>
     </div>
-
-    <div id="blob_contributors_box" style="display:none">
-      <h2 class="facebox-header" data-facebox-id="facebox-header">Users who have contributed to this file</h2>
-      <ul class="facebox-user-list" data-facebox-id="facebox-description">
-          <li class="facebox-user-list-item">
-            <img alt="@Decadence" height="24" src="https://avatars1.githubusercontent.com/u/1434668?v=3&amp;s=48" width="24" />
-            <a href="/Decadence">Decadence</a>
-          </li>
-          <li class="facebox-user-list-item">
-            <img alt="@hulet" height="24" src="https://avatars0.githubusercontent.com/u/18347?v=3&amp;s=48" width="24" />
-            <a href="/hulet">hulet</a>
-          </li>
-          <li class="facebox-user-list-item">
-            <img alt="@sourcerer-mike" height="24" src="https://avatars1.githubusercontent.com/u/2559177?v=3&amp;s=48" width="24" />
-            <a href="/sourcerer-mike">sourcerer-mike</a>
-          </li>
-          <li class="facebox-user-list-item">
-            <img alt="@izuzak" height="24" src="https://avatars0.githubusercontent.com/u/38924?v=3&amp;s=48" width="24" />
-            <a href="/izuzak">izuzak</a>
-          </li>
-          <li class="facebox-user-list-item">
-            <img alt="@sheabunge" height="24" src="https://avatars1.githubusercontent.com/u/1170783?v=3&amp;s=48" width="24" />
-            <a href="/sheabunge">sheabunge</a>
-          </li>
-          <li class="facebox-user-list-item">
-            <img alt="@BFTrick" height="24" src="https://avatars3.githubusercontent.com/u/1065372?v=3&amp;s=48" width="24" />
-            <a href="/BFTrick">BFTrick</a>
-          </li>
-      </ul>
-    </div>
-  </div>
-
+</include-fragment>
   <div class="file">
     <div class="file-header">
   <div class="file-actions">
 
     <div class="BtnGroup">
-      <a href="/github/gitignore/raw/master/WordPress.gitignore" class="btn btn-sm BtnGroup-item" id="raw-url">Raw</a>
-        <a href="/github/gitignore/blame/master/WordPress.gitignore" class="btn btn-sm js-update-url-with-hash BtnGroup-item" data-hotkey="b">Blame</a>
-      <a href="/github/gitignore/commits/master/WordPress.gitignore" class="btn btn-sm BtnGroup-item" rel="nofollow">History</a>
+      <a href="/champstudio/gitignore/raw/master/development/WordPress.gitignore" class="btn btn-sm BtnGroup-item" id="raw-url">Raw</a>
+        <a href="/champstudio/gitignore/blame/master/development/WordPress.gitignore" class="btn btn-sm js-update-url-with-hash BtnGroup-item" data-hotkey="b">Blame</a>
+      <a href="/champstudio/gitignore/commits/master/development/WordPress.gitignore" class="btn btn-sm BtnGroup-item" rel="nofollow">History</a>
     </div>
 
         <a class="btn-octicon tooltipped tooltipped-nw"
@@ -680,12 +595,12 @@ To fix that some files should only be ignored in the root directory.
             <svg aria-hidden="true" class="octicon octicon-device-desktop" height="16" version="1.1" viewBox="0 0 16 16" width="16"><path fill-rule="evenodd" d="M15 2H1c-.55 0-1 .45-1 1v9c0 .55.45 1 1 1h5.34c-.25.61-.86 1.39-2.34 2h8c-1.48-.61-2.09-1.39-2.34-2H15c.55 0 1-.45 1-1V3c0-.55-.45-1-1-1zm0 9H1V3h14v8z"/></svg>
         </a>
 
-        <!-- '"` --><!-- </textarea></xmp> --></option></form><form accept-charset="UTF-8" action="/github/gitignore/edit/master/WordPress.gitignore" class="inline-form js-update-url-with-hash" method="post"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="&#x2713;" /><input name="authenticity_token" type="hidden" value="YV2H2Qt/Vp5KnEoB1m+SC7TZmqU0eoniZMkfvnIXDPf2FePpLcvc+RftLSH7ow6uEJ8MXPYlkU5mJ/JPcmCmlQ==" /></div>
+        <!-- '"` --><!-- </textarea></xmp> --></option></form><form accept-charset="UTF-8" action="/champstudio/gitignore/edit/master/development/WordPress.gitignore" class="inline-form js-update-url-with-hash" method="post"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="&#x2713;" /><input name="authenticity_token" type="hidden" value="KI4qwDnciiUwkNjdqVXqtKPRXWvYNzJwmDd6CmFu+y6txLoIOAh6yg9cS0OxxWNQL5eMgNmwkDIYTOU4POY9fQ==" /></div>
           <button class="btn-octicon tooltipped tooltipped-nw" type="submit"
             aria-label="Fork this project and edit the file" data-hotkey="e" data-disable-with>
             <svg aria-hidden="true" class="octicon octicon-pencil" height="16" version="1.1" viewBox="0 0 14 16" width="14"><path fill-rule="evenodd" d="M0 12v3h3l8-8-3-3-8 8zm3 2H1v-2h1v1h1v1zm10.3-9.3L12 6 9 3l1.3-1.3a.996.996 0 0 1 1.41 0l1.59 1.59c.39.39.39 1.02 0 1.41z"/></svg>
           </button>
-</form>        <!-- '"` --><!-- </textarea></xmp> --></option></form><form accept-charset="UTF-8" action="/github/gitignore/delete/master/WordPress.gitignore" class="inline-form" method="post"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="&#x2713;" /><input name="authenticity_token" type="hidden" value="1DUO1vn79Xyi/2Ys5J9FABlHx0pSXFte8w7tkeeVfw26GKdsHHNP9HgsoDLAyynx4FSUZGNh7ogLwbpXUp7r7A==" /></div>
+</form>        <!-- '"` --><!-- </textarea></xmp> --></option></form><form accept-charset="UTF-8" action="/champstudio/gitignore/delete/master/development/WordPress.gitignore" class="inline-form" method="post"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="&#x2713;" /><input name="authenticity_token" type="hidden" value="mw7DxXDzzf0X/0jzYV8Wk8tQHLtbZhK809DQpwxirHREGVvgcYJ/DNAvNVc+eithEzOtdE/CTWeEP3I5wU0s4Q==" /></div>
           <button class="btn-octicon btn-octicon-danger tooltipped tooltipped-nw" type="submit"
             aria-label="Fork this project and delete the file" data-disable-with>
             <svg aria-hidden="true" class="octicon octicon-trashcan" height="16" version="1.1" viewBox="0 0 12 16" width="12"><path fill-rule="evenodd" d="M11 2H9c0-.55-.45-1-1-1H5c-.55 0-1 .45-1 1H2c-.55 0-1 .45-1 1v1c0 .55.45 1 1 1v9c0 .55.45 1 1 1h7c.55 0 1-.45 1-1V5c.55 0 1-.45 1-1V3c0-.55-.45-1-1-1zm-1 12H3V5h1v8h1V5h1v8h1V5h1v8h1V5h1v9zm1-10H2V3h9v1z"/></svg>
@@ -693,9 +608,9 @@ To fix that some files should only be ignored in the root directory.
 </form>  </div>
 
   <div class="file-info">
-      19 lines (16 sloc)
+      17 lines (15 sloc)
       <span class="file-info-divider"></span>
-    300 Bytes
+    279 Bytes
   </div>
 </div>
 
@@ -737,45 +652,36 @@ To fix that some files should only be ignored in the root directory.
       </tr>
       <tr>
         <td id="L9" class="blob-num js-line-number" data-line-number="9"></td>
-        <td id="LC9" class="blob-code blob-code-inner js-file-line">wp-content/uploads/</td>
+        <td id="LC9" class="blob-code blob-code-inner js-file-line">wp-content/wp-cache-config.php</td>
       </tr>
       <tr>
         <td id="L10" class="blob-num js-line-number" data-line-number="10"></td>
-        <td id="LC10" class="blob-code blob-code-inner js-file-line">wp-content/wp-cache-config.php</td>
+        <td id="LC10" class="blob-code blob-code-inner js-file-line">wp-content/plugins/hello.php</td>
       </tr>
       <tr>
         <td id="L11" class="blob-num js-line-number" data-line-number="11"></td>
-        <td id="LC11" class="blob-code blob-code-inner js-file-line">wp-content/plugins/hello.php</td>
+        <td id="LC11" class="blob-code blob-code-inner js-file-line">
+</td>
       </tr>
       <tr>
         <td id="L12" class="blob-num js-line-number" data-line-number="12"></td>
-        <td id="LC12" class="blob-code blob-code-inner js-file-line">
-</td>
+        <td id="LC12" class="blob-code blob-code-inner js-file-line">/.htaccess</td>
       </tr>
       <tr>
         <td id="L13" class="blob-num js-line-number" data-line-number="13"></td>
-        <td id="LC13" class="blob-code blob-code-inner js-file-line">/.htaccess</td>
+        <td id="LC13" class="blob-code blob-code-inner js-file-line">/license.txt</td>
       </tr>
       <tr>
         <td id="L14" class="blob-num js-line-number" data-line-number="14"></td>
-        <td id="LC14" class="blob-code blob-code-inner js-file-line">/license.txt</td>
+        <td id="LC14" class="blob-code blob-code-inner js-file-line">/readme.html</td>
       </tr>
       <tr>
         <td id="L15" class="blob-num js-line-number" data-line-number="15"></td>
-        <td id="LC15" class="blob-code blob-code-inner js-file-line">/readme.html</td>
+        <td id="LC15" class="blob-code blob-code-inner js-file-line">/sitemap.xml</td>
       </tr>
       <tr>
         <td id="L16" class="blob-num js-line-number" data-line-number="16"></td>
-        <td id="LC16" class="blob-code blob-code-inner js-file-line">/sitemap.xml</td>
-      </tr>
-      <tr>
-        <td id="L17" class="blob-num js-line-number" data-line-number="17"></td>
-        <td id="LC17" class="blob-code blob-code-inner js-file-line">/sitemap.xml.gz</td>
-      </tr>
-      <tr>
-        <td id="L18" class="blob-num js-line-number" data-line-number="18"></td>
-        <td id="LC18" class="blob-code blob-code-inner js-file-line">
-</td>
+        <td id="LC16" class="blob-code blob-code-inner js-file-line">/sitemap.xml.gz</td>
       </tr>
 </table>
 
@@ -823,7 +729,7 @@ To fix that some files should only be ignored in the root directory.
       <svg aria-hidden="true" class="octicon octicon-mark-github" height="24" version="1.1" viewBox="0 0 16 16" width="24"><path fill-rule="evenodd" d="M8 0C3.58 0 0 3.58 0 8c0 3.54 2.29 6.53 5.47 7.59.4.07.55-.17.55-.38 0-.19-.01-.82-.01-1.49-2.01.37-2.53-.49-2.69-.94-.09-.23-.48-.94-.82-1.13-.28-.15-.68-.52-.01-.53.63-.01 1.08.58 1.23.82.72 1.21 1.87.87 2.33.66.07-.52.28-.87.51-1.07-1.78-.2-3.64-.89-3.64-3.95 0-.87.31-1.59.82-2.15-.08-.2-.36-1.02.08-2.12 0 0 .67-.21 2.2.82.64-.18 1.32-.27 2-.27.68 0 1.36.09 2 .27 1.53-1.04 2.2-.82 2.2-.82.44 1.1.16 1.92.08 2.12.51.56.82 1.27.82 2.15 0 3.07-1.87 3.75-3.65 3.95.29.25.54.73.54 1.48 0 1.07-.01 1.93-.01 2.2 0 .21.15.46.55.38A8.013 8.013 0 0 0 16 8c0-4.42-3.58-8-8-8z"/></svg>
 </a>
     <ul class="site-footer-links">
-      <li>&copy; 2017 <span title="0.22023s from unicorn-1523828899-tngqv">GitHub</span>, Inc.</li>
+      <li>&copy; 2017 <span title="0.16411s from github-fe-4598001.cp1-iad.github.net">GitHub</span>, Inc.</li>
         <li><a href="https://github.com/site/terms" data-ga-click="Footer, go to terms, text:terms">Terms</a></li>
         <li><a href="https://github.com/site/privacy" data-ga-click="Footer, go to privacy, text:privacy">Privacy</a></li>
         <li><a href="https://github.com/security" data-ga-click="Footer, go to security, text:security">Security</a></li>
